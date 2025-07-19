@@ -214,9 +214,9 @@ function App() {
 					<h1>HEY, I'M GOPISETTY SAI CHARAN</h1>
 					<p>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product</p>
 					<a
-						href="https://drive.google.com/file/d/1JtcSUnthEUFniW3lo2rM2x026SmiS_jD/view?usp=sharing"
+						href="https://drive.google.com/file/d/131Q0lDcuXAJWUzzmqaKHIyz21C0-D4x0/view?usp=sharing"
 						// download="cv-PDF-document"
-						// target="_blank"
+						// target="_blank" 
 						// rel="noopener noreferrer"
 					>
 						<DownloadButton >
